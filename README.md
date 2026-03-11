@@ -22,3 +22,5 @@ This project analyzes Twitter performance data using Power BI. The dataset was c
 - Analyze tweet performance by weekday
 - Compare media views with engagement levels
 
+## Dashboard Preview
+
