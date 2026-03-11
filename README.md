@@ -23,4 +23,7 @@ This project analyzes Twitter performance data using Power BI. The dataset was c
 - Compare media views with engagement levels
 
 ## Dashboard Preview
+<a href="https://github.com/Anuja-0009/Twitter-Performance-Analytics-Dashboard/blob/main/tweet-dashboard-1.png">Datas1</a>
+<a href = "https://github.com/Anuja-0009/Twitter-Performance-Analytics-Dashboard/blob/main/tweet-dashboard-2.png">Data2</a>
+<a href = "https://github.com/Anuja-0009/Twitter-Performance-Analytics-Dashboard/blob/main/tweet-dashboard-3.png">Data3</a>
 
